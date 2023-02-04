@@ -160,6 +160,10 @@ header {
     color: white;
 
     // background video with dark overlay 
+    // autoplay
+    // muted
+    // loop
+
     .video-container {
         position: absolute;
         top: 0;
@@ -171,6 +175,7 @@ header {
             width: 100%;
             height: 100%;
             object-fit: cover;
+            
         }
     }
 
